@@ -15,4 +15,4 @@
 ### Here is an individual product.
 
 <img src="individual_cart_product.jpg" alt="individual cart product"/>
-### Here is an individual cart product.
+### Here is an individual cart product, user can Increase, decrease, and remove the cart products
