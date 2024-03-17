@@ -1,18 +1,18 @@
-<h3>This is Sahiram Dukiya</h3>
-<a href="https://myshophere.netlify.app/">My website here</a>
+### This is Sahiram Dukiya
 
-<img src="" alt="form"/>
-<h3>Above is the form, which you need to feel your dat</h3>
+[My website here](https://myshophere.netlify.app/)
 
-<img src="" alt="home"/>
-<h3>Above is the home page</h3>
+<img src="form.jpg" alt="form"/>
+### Above is the form, which you need to fill out.
 
-<img src="" alt="products'/>
-<h3>These are all products</h3>
+<img src="home.jpg" alt="home"/>
+### Above is the home page.
 
-<img src="" alt="indidual product'/>
-<h3>Here is individual Product</h3>
+<img src="products.jpg" alt="products"/>
+### These are all products.
 
+<img src="individual_product.jpg" alt="individual product"/>
+### Here is an individual product.
 
-<img src="" alt="indidual cart product'/>
-<h3>Here is individual cart Product</h3>
+<img src="individual_cart_product.jpg" alt="individual cart product"/>
+### Here is an individual cart product.
