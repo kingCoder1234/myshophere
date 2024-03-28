@@ -3,10 +3,8 @@ MERN E-Commerce Store
 [My website here](https://myshophere.netlify.app/)
 
 <img src="form.jpg" alt="form"/>
-### Above is the form, which you need to fill out.
 
 <img src="home.jpg" alt="home"/>
-### Above is the home page.
 
 <img src="products.jpg" alt="products"/>
 ### These are all products.
