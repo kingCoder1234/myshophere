@@ -3,8 +3,10 @@ MERN E-Commerce Store
 [My website here](https://myshophere.netlify.app/)
 
 <img src="public/form.png" alt="form"/>
+### Enter your data to continue.
 
 <img src="public/home.png" alt="home"/>
+### Home page of the application.
 
 <img src="public/products.png" alt="products"/>
 ### These are all products.
