@@ -15,4 +15,4 @@ MERN E-Commerce Store
 <img src="public/products.png" alt="individual product"/>
 
 ### Here is an individual cart product, user can Increase, decrease, and remove the cart products
-<img src="public/Cartproduct.png" alt="Individual cart product"/>
+<img src="public/cartproduct.png" alt="Individual cart product"/>
